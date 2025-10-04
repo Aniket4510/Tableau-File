@@ -9,7 +9,7 @@ This repository contains a complete Tableau project based on the Superstore data
 - Easy to open and explore with Tableau Public or Tableau Desktop
 
 ## Getting Started
-1. Download the `.twbx` file from this repository.
+1. Download the `.twb` file from this repository.
 2. Open it using **Tableau Public** or **Tableau Desktop**.
 3. Explore the sheets, dashboard, and story for insights.
 
